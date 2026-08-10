@@ -1,13 +1,16 @@
 Apa itu Git?
+
 Git adalah sistem yang mampu menyimpan data kita, sehingga Dengan Git, Anda dapat melihat riwayat perubahan, mengembalikan berkas ke versi sebelumnya jika terjadi kesalahan, 
 serta mengerjakan satu proyek bersama tim tanpa khawatir saling menimpa pekerjaan satu sama lain. sebagaimana sederhananya google workspace, walaupun secara teknis sangat berbeda.
 
 Apa itu GitHub?
+
 GitHub adalah platform berbasis cloud (layanan web) yang menyediakan repositori online untuk menyimpan, mengelola, dan membagikan proyek yang menggunakan Git. 
 Jika Git adalah alat untuk melacak perubahannya, maka GitHub adalah "rumah" digital tempat berkas-berkas tersebut disimpan secara terpusat, 
 memfasilitasi kolaborasi, manajemen tugas, hingga publikasi situs web secara gratis (melalui GitHub Pages).
 
 Mengapa GitHub Penting bagi Seorang Guru?
+
 Manajemen Tugas Berbasis Teknologi (GitHub Classroom): Guru dapat membuat tugas mandiri maupun kelompok, membagikan repositori materi, dan memantau progres siswa secara real-time.
 
 Pengarsipan & Kontrol Versi Bahan Ajar: Modul, soal, dan materi pembelajaran tersimpan secara rapi. 
@@ -18,6 +21,7 @@ Transparansi Kerja Kelompok: Guru dapat melihat kontribusi tiap siswa dalam tuga
 Memodelkan Industry Standard: Menggunakan GitHub di kelas memberikan pengalaman nyata kepada siswa mengenai cara kerja profesional di industri teknologi dan kerja kolaboratif modern.
 
 Tiga Manfaat GitHub yang Paling Relevan untuk SMAIT Dar el-Iman
+
 Kolaborasi Tim Pengajar & Repositori Terpusat
 
 Guru-guru di SMAIT Dar el-Iman dapat mengumpulkan modul, rincian kurikulum, dan bank soal dalam satu repositori bersama. 
